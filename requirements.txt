@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 alembic==1.5.3
 certifi==2020.12.5
 click==7.1.2
@@ -58,4 +57,4 @@ Werkzeug==1.0.1
 WTForms==2.3.3
 psycopg2==2.8.6
 gunicorn==20.0.4
->>>>>>> 9ef4a19fd0c4d3d0a105789b9034cd52705ec568
+
